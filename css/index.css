@@ -15,23 +15,13 @@ body{
 
 }
 
-<<<<<<< HEAD
-a {
-	color: #000;
-=======
 
 /**a{
 	color: #999999;
->>>>>>> master
 }
 
 a:hover{
-<<<<<<< HEAD
-	color: #fff;
-	color: #999999;
-=======
 	color: #dddddd;
->>>>>>> master
 }
 **/
 
